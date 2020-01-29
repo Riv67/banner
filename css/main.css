@@ -32,4 +32,6 @@ position: relative;
   color: #fff;
   position: absolute;
   bottom: 1rem;
+  width: 100%;
+  overflow: hidden;
 }
